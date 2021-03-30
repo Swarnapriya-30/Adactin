@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-05T04:55:15Z" name="Default suite" finished-at="2021-03-05T04:55:15Z" duration-ms="77">
+    <groups>
+    </groups>
+    <test started-at="2021-03-05T04:55:15Z" name="Default test" finished-at="2021-03-05T04:55:15Z" duration-ms="77">
+      <class name="com.testng.org.DataproviderTest">
+        <test-method signature="credential(java.lang.String, java.lang.String)[pri:0, instance:com.testng.org.DataproviderTest@c7045b9]" started-at="2021-03-05T04:55:15Z" name="credential" data-provider="testData" finished-at="2021-03-05T04:55:15Z" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[siva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[siva123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credential -->
+        <test-method signature="credential(java.lang.String, java.lang.String)[pri:0, instance:com.testng.org.DataproviderTest@c7045b9]" started-at="2021-03-05T04:55:15Z" name="credential" data-provider="testData" finished-at="2021-03-05T04:55:15Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[anu546]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credential -->
+        <test-method signature="credential(java.lang.String, java.lang.String)[pri:0, instance:com.testng.org.DataproviderTest@c7045b9]" started-at="2021-03-05T04:55:15Z" name="credential" data-provider="testData" finished-at="2021-03-05T04:55:15Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dinesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[din789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credential -->
+        <test-method signature="credential(java.lang.String, java.lang.String)[pri:0, instance:com.testng.org.DataproviderTest@c7045b9]" started-at="2021-03-05T04:55:15Z" name="credential" data-provider="testData" finished-at="2021-03-05T04:55:15Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Priya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[priya10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credential -->
+      </class> <!-- com.testng.org.DataproviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
